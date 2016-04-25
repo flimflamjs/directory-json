@@ -5,38 +5,35 @@
     , "github": "ramda/ramda"
     , "npm": "ramda"
     , "labels": ["utilities"]
+    , "desc": "A practical functional library for Javascript programmers."
     }
   , {
       "name": "flyd"
     , "github": "paldepind/flyd"
     , "npm": "flyd"
     , "labels": ["utilities", "flyd"]
+    , "desc": "The minimalistic but powerful, modular, functional reactive programming library in JavaScript."
     }
   , {
       "name": "snabbdom"
     , "github": "paldepind/snabbdom"
     , "npm": "snabbdom"
     , "labels": ["utilities", "core"]
+    , "desc": "A virtual DOM library with focus on simplicity, modularity, powerful features and performance."
     }
   , {
       "name": "Flimflam Render"
     , "github": "jayrbolton/flimflam-render"
     , "npm": "flimflam-render"
     , "labels": ["utilites", "core"]
+    , "desc": "Efficiently render/diff/patch flimflam UI modules to the page"
     }
   , {
       "name": "FlimFlam Core UI Components"
     , "github": "flimflamjs/ff-core"
     , "npm": "ff-core"
     , "labels": ["ui-component"]
-    }
-  , {
-      "name": "moment"
-    , "github": "moment"
-    , "docs": "moment"
-    , "website": "moment"
-    , "npm": "moment"
-    , "labels": ["utilities", "time"]
+    , "desc": "Core flimflam UI components, such as modals, tooltips, and many more."
     }
   ]
 }
