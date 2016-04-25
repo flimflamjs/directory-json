@@ -2,31 +2,31 @@
 , "packages": [
     {
       "name": "Ramda"
-    , "url": "https://github.com/ramda/ramda"
+    , "github": "/ramda/ramda"
     , "npm": "ramda"
     , "labels": ["utilities"]
     }
   , {
       "name": "flyd"
-    , "url": "https://github.com/paldepind/flyd"
+    , "github": "/paldepind/flyd"
     , "npm": "flyd"
     , "labels": ["utilities", "flyd"]
     }
   , {
       "name": "snabbdom"
-    , "url": "https://github.com/paldepind/snabbdom"
+    , "github": "/paldepind/snabbdom"
     , "npm": "snabbdom"
     , "labels": ["utilities", "core"]
     }
   , {
       "name": "Flimflam Render"
-    , "url": "https://github.com/jayrbolton/flimflam-render"
+    , "github": "/jayrbolton/flimflam-render"
     , "npm": "flimflam-render"
     , "labels": ["utilites", "core"]
     }
   , {
       "name": "FlimFlam Core UI Components"
-    , "url": "https://github.com/flimflamjs/ff-core"
+    , "github": "/flimflamjs/ff-core"
     , "npm": "ff-core"
     , "labels": ["ui-component"]
     }
