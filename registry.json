@@ -1,10 +1,10 @@
-{ "labels": ["utilities", "time", "flyd", "ui-component"]
+ { "labels": ["utilities", "time", "flyd", "ui-component"]
 , "packages": [
     {
       "name": "Ramda"
     , "github": "ramda/ramda"
     , "npm": "ramda"
-    , "labels": ["utilities"]
+    , "labels": ["utilities", "core"]
     , "desc": "A practical functional library for Javascript programmers."
     }
   , {
@@ -32,7 +32,7 @@
       "name": "FlimFlam Core UI Components"
     , "github": "flimflamjs/ff-core"
     , "npm": "ff-core"
-    , "labels": ["ui-component"]
+    , "labels": ["ui-component", "core"]
     , "desc": "Core flimflam UI components, such as modals, tooltips, and many more."
     }
   ]
