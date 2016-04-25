@@ -1,0 +1,42 @@
+{ "labels": ["utilities", "time", "flyd", "ui-component"]
+, "packages": [
+    {
+      "name": "Ramda"
+    , "url": "https://github.com/ramda/ramda"
+    , "npm": "ramda"
+    , "labels": ["utilities"]
+    }
+  , {
+      "name": "flyd"
+    , "url": "https://github.com/paldepind/flyd"
+    , "npm": "flyd"
+    , "labels": ["utilities", "flyd"]
+    }
+  , {
+      "name": "snabbdom"
+    , "url": "https://github.com/paldepind/snabbdom"
+    , "npm": "snabbdom"
+    , "labels": ["utilities", "core"]
+    }
+  , {
+      "name": "Flimflam Render"
+    , "url": "https://github.com/jayrbolton/flimflam-render"
+    , "npm": "flimflam-render"
+    , "labels": ["utilites", "core"]
+    }
+  , {
+      "name": "FlimFlam Core UI Components"
+    , "url": "https://github.com/flimflamjs/ff-core"
+    , "npm": "ff-core"
+    , "labels": ["ui-component"]
+    }
+  , {
+      "name": "moment"
+    , "github": "moment"
+    , "docs": "moment"
+    , "website": "moment"
+    , "npm": "moment"
+    , "labels": ["utilities", "time"]
+    }
+  ]
+}
