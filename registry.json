@@ -1,4 +1,4 @@
- { "labels": ["utilities", "flyd", "ui-component", "core"]
+{ "labels": ["utilities", "flyd", "ui-component", "core", "build-tool"]
 , "packages": [
     {
       "name": "Ramda"
@@ -41,6 +41,69 @@
     , "npm": "flyd-ajax"
     , "labels": ["core", "utilities"]
     , "desc": "Make ajax requests using functional programming with Flyd -- a light wrapper around XMLHttpRequest"
+    }
+  , {
+      "name": "moment"
+    , "github": "moment/moment"
+    , "npm": "moment"
+    , "labels": ["utilities"]
+    , "desc": "Parse, validate, manipulate, and display dates in javascript."
+    }
+  , {
+      "name": "moment-timezone"
+    , "github": "moment/moment-timezone"
+    , "npm": "moment-timezone"
+    , "labels": ["utilities"]
+    , "desc": "Parse and display moments in any timezone."
+    }
+  , {
+      "name": "moment-duration-format"
+    , "github": "jsmreese/moment-duration-format"
+    , "npm": "moment-duration-format"
+    , "labels": ["utilities"]
+    , "desc": "A moment.js plugin for formatting durations."
+    }
+  , {
+      "name": "form-serialize"
+    , "github": "shtylman/form-serialize"
+    , "npm": "form-serialize"
+    , "labels": ["utilities"]
+    , "desc": "Serialize form fields to submit a form over ajax"
+    }
+  , {
+      "name": "browserify"
+    , "github": "substack/node-browserify"
+    , "npm": "browserify"
+    , "labels": ["build-tools", "core"]
+    , "desc": "browser-side require() the node way"
+    }
+  , {
+      "name": "babelify"
+    , "github": "babel/babelify"
+    , "npm": "babelify"
+    , "labels": ["build-tools", "core"]
+    , "desc": "Babel browserify transform (for ES6)"
+    }
+  , {
+      "name": "watchify"
+    , "github": "substack/watchify"
+    , "npm": "watchify"
+    , "labels": ["build-tools", "core"]
+    , "desc": "Watch mode for browserify builds"
+    }
+  , {
+      "name": "budo"
+    , "github": "mattdesl/budo"
+    , "npm": "budo"
+    , "labels": ["build-tools", "core"]
+    , "desc": "A browserify server for rapid prototyping"
+    }
+  , {
+      "name": "percent"
+    , "github": "ZDroid/percent"
+    , "npm": "percent"
+    , "labels": ["utilities"]
+    , "desc": "Handle and format percentage values."
     }
   ]
 }
