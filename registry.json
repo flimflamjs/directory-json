@@ -1,4 +1,4 @@
- { "labels": ["utilities", "time", "flyd", "ui-component"]
+ { "labels": ["utilities", "flyd", "ui-component", "core"]
 , "packages": [
     {
       "name": "Ramda"
@@ -11,7 +11,7 @@
       "name": "flyd"
     , "github": "paldepind/flyd"
     , "npm": "flyd"
-    , "labels": ["utilities", "flyd"]
+    , "labels": ["utilities", "flyd", "core"]
     , "desc": "The minimalistic but powerful, modular, functional reactive programming library in JavaScript."
     }
   , {
@@ -34,6 +34,13 @@
     , "npm": "ff-core"
     , "labels": ["ui-component", "core"]
     , "desc": "Core flimflam UI components, such as modals, tooltips, and many more."
+    }
+  , {
+      "name": "Flyd Ajax"
+    , "github": "jayrbolton/flyd-ajax"
+    , "npm": "flyd-ajax"
+    , "labels": ["core", "utilities"]
+    , "desc": "Make ajax requests using functional programming with Flyd -- a light wrapper around XMLHttpRequest"
     }
   ]
 }
