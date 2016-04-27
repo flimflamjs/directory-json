@@ -1,7 +1,7 @@
 { "labels": ["utilities", "flyd", "ui-component", "core", "build-tool"]
 , "packages": [
     {
-      "name": "Ramda"
+      "name": "ramda"
     , "github": "ramda/ramda"
     , "npm": "ramda"
     , "labels": ["utilities", "core"]
@@ -22,21 +22,21 @@
     , "desc": "A virtual DOM library with focus on simplicity, modularity, powerful features and performance."
     }
   , {
-      "name": "Flimflam Render"
+      "name": "flimflam-render"
     , "github": "jayrbolton/flimflam-render"
     , "npm": "flimflam-render"
     , "labels": ["utilites", "core"]
     , "desc": "Efficiently render/diff/patch flimflam UI modules to the page"
     }
   , {
-      "name": "FlimFlam Core UI Components"
+      "name": "ff-core"
     , "github": "flimflamjs/ff-core"
     , "npm": "ff-core"
     , "labels": ["ui-component", "core"]
-    , "desc": "Core flimflam UI components, such as modals, tooltips, and many more."
+    , "desc": "Core UI components: modals, tooltips, wizards, buttons, navigation, form validation, autocomplete, confirmation."
     }
   , {
-      "name": "Flyd Ajax"
+      "name": "flyd-ajax"
     , "github": "jayrbolton/flyd-ajax"
     , "npm": "flyd-ajax"
     , "labels": ["core", "utilities"]
