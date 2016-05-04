@@ -90,5 +90,11 @@
     , "labels": ["utilities"]
     , "desc": "Handle and format percentage values."
     }
+  , {
+      "github": "wanasit/chrono"
+    , "npm": "chrono-node"
+    , "labels": ["utilities"]
+    , "desc": "A natural language date parser"
+    }
   ]
 }
