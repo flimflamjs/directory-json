@@ -96,5 +96,11 @@
     , "labels": ["utilities"]
     , "desc": "A natural language date parser"
     }
+  , {
+      "github": "jayrbolton/ff-textbox"
+    , "npm": "ff-textbox"
+    , "labels": ["utilities", "ui-component"]
+    , "desc": "Autoresizing textbox with enter key handling, similar to a comment box"
+    }
   ]
 }
